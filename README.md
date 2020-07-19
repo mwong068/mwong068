@@ -1,10 +1,10 @@
 ### Hi there 👋  I'm Megan!
 
-#I'm a software engineer based in the San Francisco Bay Area 🌉
+##I'm a software engineer based in the San Francisco Bay Area 🌉
 
-#I have experience with Ruby on Rails, Javascript, React, Redux, HTML/CSS.
+##I have experience with Ruby on Rails, Javascript, React, Redux, HTML/CSS.
 
-📫  You can reach me at mwong068@gmail.com.
+##📫  You can reach me at mwong068@gmail.com.
 
 <!--
 **mwong068/mwong068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
