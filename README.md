@@ -1,6 +1,7 @@
 <p align="center">
 <!--   <img src="https://dev-to-uploads.s3.amazonaws.com/i/yjlv4r95z1c98p7a2n1g.png" width="100%"><br><br> -->
-  <img src="https://dev-to-uploads.s3.amazonaws.com/i/9tmlj7mbzhc4ku83kmhj.png" width="85%"><br><br>
+<!--   <img src="https://dev-to-uploads.s3.amazonaws.com/i/9tmlj7mbzhc4ku83kmhj.png" width="85%"><br><br> -->
+  <img src="https://dev-to-uploads.s3.amazonaws.com/i/zjzhguzx33faka4wixgb.png" width="85%"><br><br>
   <b>Hi there, I'm Megan! 👋</b><br><br>
   <a href="https://www.linkedin.com/in/mwong068/">LinkedIn</a> |
   <a href="https://dev.to/mwong068/">Blog</a> |
