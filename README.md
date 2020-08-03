@@ -4,7 +4,6 @@
   <img src="https://dev-to-uploads.s3.amazonaws.com/i/zjzhguzx33faka4wixgb.png" width="85%">
   </p>
   <h3 align="center">Hi there, I'm Megan! 👋</h3>
-  <br><br>
   <p align="center"><samp>
     <a href="https://www.linkedin.com/in/mwong068/">LinkedIn</a> |
     <a href="https://dev.to/mwong068/">Blog</a> |
