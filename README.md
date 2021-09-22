@@ -7,7 +7,7 @@
   <p align="center"><samp>
     <a href="https://www.linkedin.com/in/mwong068/">LinkedIn</a> |
     <a href="https://dev.to/mwong068/">Blog</a> |
-    <a href="https://megan-wong.com">Portfolio</a>
+    <a href="https://meganwong.dev">Portfolio</a>
     <br><br>
     I'm a software engineer based in the San Francisco Bay Area 🌉
     <br><br>
